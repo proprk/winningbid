@@ -23,4 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 credentials.txt
-.env
